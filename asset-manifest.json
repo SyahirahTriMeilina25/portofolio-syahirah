@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portofolio-syahirah/static/css/main.e6c13ad2.css",
+    "main.js": "/portofolio-syahirah/static/js/main.fca6f987.js",
+    "static/js/453.329beb8b.chunk.js": "/portofolio-syahirah/static/js/453.329beb8b.chunk.js",
+    "index.html": "/portofolio-syahirah/index.html",
+    "main.e6c13ad2.css.map": "/portofolio-syahirah/static/css/main.e6c13ad2.css.map",
+    "main.fca6f987.js.map": "/portofolio-syahirah/static/js/main.fca6f987.js.map",
+    "453.329beb8b.chunk.js.map": "/portofolio-syahirah/static/js/453.329beb8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fca6f987.js"
+  ]
+}
