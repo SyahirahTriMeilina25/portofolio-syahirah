@@ -660,14 +660,14 @@ export default function Portfolio() {
                 <Mail size={20} />
                 Say Hello
               </a>
-              <a 
+              {/* <a 
                 href="https://wa.me/6281268240068" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-pink-500 text-white rounded hover:bg-pink-600 transition-colors font-medium"
               >
                 WhatsApp Me
-              </a>
+              </a> */}
             </div>
           </div>
         </section>
